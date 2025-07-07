@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Kubernetes
+kubeconfig
+*.key
+*.crt
+*.pem
+
+# Backups
+*.backup
+*.bak 
